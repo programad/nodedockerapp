@@ -1,0 +1,14 @@
+{
+  "name": "nodedockerapp",
+  "version": "1.0.0",
+  "description": "Node application on docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Gomes <programad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
